@@ -92,7 +92,7 @@ const blueMapConfig = {
 
 const config = {
   app: "pdx-minecraft",
-  primary_region: "phx",
+  primary_region: "lax",
   build: { dockerfile: "Dockerfile" },
   mounts: {
     source: "pdx_minecraft_data",
