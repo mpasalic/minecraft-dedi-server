@@ -91,7 +91,7 @@ const blueMapConfig = {
 }
 
 const config = {
-  app: "pdx-minecraft",
+  app: "lacies-minecraft",
   primary_region: "lax",
   build: { dockerfile: "Dockerfile" },
   mounts: {
